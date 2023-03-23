@@ -1,0 +1,3 @@
+=SE(E(B2="");"";SE(HORA(B2)>=12;"Saída";SE(HORA(B2)<12;"Entrada")))
+
+=SE(ÉNÚM(LOCALIZAR("3f80bd89";C2));"Francisco Antônio";SE(ÉNÚM(LOCALIZAR("a1c53948";C2));"José Silva";SE(ÉNÚM(LOCALIZAR("e79abd89";C2));"Maria Sousa";"")))
