@@ -1,5 +1,5 @@
 
-#Trabalho final do Curso de Desenvolvimento de Sistemas.
+Trabalho final do Curso de Desenvolvimento de Sistemas.
 
 Equipe: Christian Sousa
         Juliana Rocha
